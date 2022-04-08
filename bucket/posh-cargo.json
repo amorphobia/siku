@@ -1,7 +1,7 @@
 {
     "homepage": "https://github.com/Bak-Jin-Hyeong/posh-cargo",
     "description": "Provides tab autocompletion of 'cargo' command on PowerShell prompt",
-    "version": "v0.1.2.0",
+    "version": "0.1.2.0",
     "license": "WTFPL",
     "url": "https://github.com/Bak-Jin-Hyeong/posh-cargo/archive/v0.1.2.0.zip",
     "hash": "5825c305adcbbdc84f3f3cdcc46c630607c7b6c076f8217f6b41efe36d543a77",
