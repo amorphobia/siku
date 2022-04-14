@@ -3,6 +3,7 @@
     "description": "ROMs needed by the 86Box emulator",
     "homepage": "https://86box.net/",
     "license": {
+        "identifier": "Proprietary",
         "url": "https://github.com/86Box/roms/blob/master/LICENSE"
     },
     "url": "https://github.com/86Box/roms/archive/refs/tags/20220319.zip",
