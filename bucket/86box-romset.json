@@ -1,0 +1,28 @@
+{
+    "version": "20220319",
+    "description": "ROMs needed by the 86Box emulator",
+    "homepage": "https://86box.net/",
+    "license": {
+        "url": "https://github.com/86Box/roms/blob/master/LICENSE"
+    },
+    "url": "https://github.com/86Box/roms/archive/refs/tags/20220319.zip",
+    "hash": "588c6e7b7d382ee652cc37a3d42174441cd340c2937b75b8575148169f1989c7",
+    "depends": "86box",
+    "extract_dir": "roms-20220319",
+    "installer": {
+        "script": [
+            "New-Item -Path \"$(appdir 86box $global)\\current\\roms\" -ItemType Junction -Value \"$dir\" | Out-Null"
+        ]
+    },
+    "uninstaller": {
+        "script": "Remove-Item \"$(appdir 86box $global)\\current\\roms\" -Force -Recurse -Confirm:$False -ErrorAction SilentlyContinue"
+    },
+    "checkver": {
+        "url": "https://github.com/86Box/roms/tags",
+        "regex": "[\\d]{8}"
+    },
+    "autoupdate": {
+        "url": "https://github.com/86Box/roms/archive/refs/tags/$version.zip",
+        "extract_dir": "roms-$version"
+    }
+}
