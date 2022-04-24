@@ -10,19 +10,19 @@ List of Apps
 
 |App|Description|
 |----|----|
-|[86box-manager](https://github.com/amorphobia/siku/blob/master/bucket/86box-manager.json)|86Box Manager is an optional configuration manager for the 86Box emulator.|
-|[86box-romset](https://github.com/amorphobia/siku/blob/master/bucket/86box-romset.json)|ROMs needed by the 86Box emulator|
-|[86box](https://github.com/amorphobia/siku/blob/master/bucket/86box.json)|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
-|[cpu-z-zh-cn](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)|System information software (简体中文版)|
-|[Deep Explorer](https://github.com/amorphobia/siku/blob/master/bucket/deep-explorer.json)|Deep Explorer is a tool very similar to the Windows Explorer, but it allows you to view and operate on paths much longer than canonical 260 characters of Windows.|
-|[DSynchornize](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize.json)|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server.|
-|[fido](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)|A PowerShell download script for Windows ISOs and UEFI Shell|
-|[hfsexplorer](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
-|[minesweeper-arbiter](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
-|[posh-cargo](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
-|[spim](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)|SPIM A MIPS32 Simulator|
-|[winrar-zh-cn](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)|Powerful archive manager (简体中文版)|
-|[xmcl](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)|An Open Source Minecraft Launcher with Modern UX.|
+|[86box-manager](https://github.com/86Box/86BoxManager)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box-manager.json)</sup>|86Box Manager is an optional configuration manager for the 86Box emulator.|
+|[86box-romset](https://86box.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box-romset.json)</sup>|ROMs needed by the 86Box emulator|
+|[86box](https://86box.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box.json)</sup>|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
+|[cpu-z-zh-cn](https://www.cpuid.com/softwares/cpu-z.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)|System information software (简体中文版)</sup>|
+|[Deep Explorer](http://dimio.altervista.org/eng/#DExplorer)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/deep-explorer.json)</sup>|Deep Explorer is a tool very similar to the Windows Explorer, but it allows you to view and operate on paths much longer than canonical 260 characters of Windows.|
+|[DSynchornize](http://dimio.altervista.org/eng/#DSynchronize)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize.json)</sup>|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server.|
+|[fido](https://github.com/pbatard/Fido)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)</sup>|A PowerShell download script for Windows ISOs and UEFI Shell|
+|[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
+|[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
+|[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
+|[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
+|[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)|Powerful archive manager (简体中文版)</sup>|
+|[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
 
 See also in [ScoopSearch](https://scoopsearch.github.io/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
 
