@@ -14,6 +14,8 @@ List of Apps
 |[86box-romset](https://github.com/amorphobia/siku/blob/master/bucket/86box-romset.json)|ROMs needed by the 86Box emulator|
 |[86box](https://github.com/amorphobia/siku/blob/master/bucket/86box.json)|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
 |[cpu-z-zh-cn](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)|System information software (简体中文版)|
+|[Deep Explorer](https://github.com/amorphobia/siku/blob/master/bucket/deep-explorer.json)|Deep Explorer is a tool very similar to the Windows Explorer, but it allows you to view and operate on paths much longer than canonical 260 characters of Windows.|
+|[DSynchornize](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize.json)|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server.|
 |[fido](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)|A PowerShell download script for Windows ISOs and UEFI Shell|
 |[hfsexplorer](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[minesweeper-arbiter](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
