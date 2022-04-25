@@ -1,11 +1,11 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A bash style \"cd\" to replace Set-Location",
     "homepage": "https://github.com/amorphobia/posh-cd",
     "license": "AGPL-3.0",
-    "url": "https://github.com/amorphobia/posh-cd/archive/v0.0.1.zip",
-    "hash": "a90e5e5379fbfdd26bb59fd75512345678173bff8bea06a03d93681740bc95b4",
-    "extract_dir": "posh-cd-0.0.1\\src",
+    "url": "https://github.com/amorphobia/posh-cd/archive/v0.0.2.zip",
+    "hash": "285bd347f1f1658746997f5fb0f94077eb0e7803423b9f77fd5a880542c5563e",
+    "extract_dir": "posh-cd-0.0.2\\src",
     "psmodule": {
         "name": "posh-cd"
     },
