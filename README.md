@@ -23,6 +23,7 @@ List of Apps
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
+|[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)|Powerful archive manager (简体中文版)</sup>|
 |[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
