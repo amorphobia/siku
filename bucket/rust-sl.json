@@ -1,10 +1,10 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "A rust port of sl.",
     "homepage": "https://github.com/amorphobia/rust-sl",
     "license": "AGPL-3.0",
-    "url": "https://github.com/amorphobia/rust-sl/releases/download/v0.1.1/rust-sl-win-x86_64-v0.1.1.zip",
-    "hash": "06c6d8f250bfde6d095f87d9f8e699ea7ee2f2901f9b837d7aec6af22c7b6d54",
+    "url": "https://github.com/amorphobia/rust-sl/releases/download/v0.2.0/rust-sl-win-x86_64-v0.2.0.zip",
+    "hash": "4f3aa46e92375a851371f89db25c743b022c3c104157419e7bffa7fde14b622b",
     "bin": "sl.exe",
     "checkver": "github",
     "autoupdate": {
