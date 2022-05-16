@@ -22,7 +22,9 @@
             "XMCL"
         ]
     ],
-    "checkver": "https://github.com/Voxelum/x-minecraft-launcher",
+    "checkver": {
+        "github": "https://github.com/Voxelum/x-minecraft-launcher"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

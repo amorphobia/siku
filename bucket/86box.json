@@ -28,7 +28,9 @@
             "86Box"
         ]
     ],
-    "checkver": "https://github.com/86Box/86Box",
+    "checkver": {
+        "github": "https://github.com/86Box/86Box"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
