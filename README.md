@@ -5,8 +5,14 @@
 
 My own bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
-List of Apps
-------------
+## Usage
+
+```
+scoop bucket add siku https://github.com/amorphobia/siku
+scoop install <manifest>
+```
+
+## List of Apps
 
 |App|Description|
 |----|----|
@@ -30,12 +36,6 @@ List of Apps
 
 See also in [ScoopSearch](https://scoopsearch.github.io/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
 
-How do I install these manifests?
----------------------------------
-
-To add this bucket, run `scoop bucket add siku https://github.com/amorphobia/siku`. To install, do `scoop install <manifest>`.
-
-How do I contribute new manifests?
-----------------------------------
+## How do I contribute new manifests?
 
 To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
