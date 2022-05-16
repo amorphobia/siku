@@ -34,7 +34,7 @@ scoop install <manifest>
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)|Powerful archive manager (简体中文版)</sup>|
 |[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
 
-See also in [ScoopSearch](https://scoopsearch.github.io/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
+See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
 
 ## How do I contribute new manifests?
 
