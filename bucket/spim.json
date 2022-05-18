@@ -11,9 +11,7 @@
         "New-Item ${Env:PROGRAMFILES(x86)}\\QtSpim\\help -ItemType SymbolicLink `",
         "  -Value \"$($(Get-Item $(Get-Command scoop.ps1).Path).Directory.Parent.FullName)\\apps\\spim\\current\\QtSpim\\help\""
     ],
-    "bin": [
-        "QtSpim\\QtSpim.exe"
-    ],
+    "bin": "QtSpim\\QtSpim.exe",
     "shortcuts": [
         [
             "QtSpim\\QtSpim.exe",

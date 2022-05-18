@@ -8,9 +8,7 @@
     "suggest": {
         "86Box": "siku/86box"
     },
-    "bin": [
-        "86Manager.exe"
-    ],
+    "bin": "86Manager.exe",
     "shortcuts": [
         [
             "86Manager.exe",
