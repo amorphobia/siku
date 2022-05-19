@@ -33,7 +33,8 @@ scoop install <manifest>
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
-|[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)|Powerful archive manager (简体中文版)</sup>|
+|[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
+|[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
 
 See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
