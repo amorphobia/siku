@@ -1,16 +1,16 @@
 {
-    "version": "0.23.2",
+    "version": "0.24.1",
     "description": "An Open Source Minecraft Launcher with Modern UX.",
     "homepage": "https://xmcl.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.23.2/xmcl-0.23.2-win32-x64.zip",
-            "hash": "baa6fa7a792f3266bc5e7f806f4109404bbb442d0cc97bdc51b91db10dcd9c29"
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.24.1/xmcl-0.24.1-win32-x64.zip",
+            "hash": "00c556fd5f7982a43bb7a898a344005419802b1b330eb83f369ceef3acc5571b"
         },
         "32bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.23.2/xmcl-0.23.2-win32-ia32.zip",
-            "hash": "584fd878615d82f3fc56186fd6222a903713c7b76c518e8297d1e2f41d7d3b86"
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.24.1/xmcl-0.24.1-win32-ia32.zip",
+            "hash": "4e06e2ecab8930d887e55832ec1a16870c4330b87d35d70978b3f5e21c37aca2"
         }
     },
     "bin": "xmcl.exe",
