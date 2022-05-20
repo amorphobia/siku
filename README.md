@@ -32,6 +32,7 @@ scoop install <manifest>
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
+|[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
