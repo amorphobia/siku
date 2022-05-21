@@ -1,0 +1,28 @@
+{
+    "version": "0.1.0",
+    "description": "Find scoop apps",
+    "homepage": "https://github.com/amorphobia/scoop-find",
+    "license": "AGPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/amorphobia/scoop-find/releases/download/v0.1.0/scoop-find-x86_64-pc-windows-msvc.zip",
+            "hash": "29f3d5fba1c773427da39674597ee957933a1542990935c550fa21c05a616aeb"
+        },
+        "32bit": {
+            "url": "https://github.com/amorphobia/scoop-find/releases/download/v0.1.0/scoop-find-i686-pc-windows-msvc.zip",
+            "hash": "fe6afc6bffb8b19f8a9745a6fbd7c81e3e95cb03a7a84b05d841b7374936af1b"
+        }
+    },
+    "bin": "scoop-find.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/amorphobia/scoop-find/releases/download/v$version/scoop-find-i686-pc-windows-msvc.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/amorphobia/scoop-find/releases/download/v$version/scoop-find-i686-pc-windows-msvc.zip"
+            }
+        }
+    }
+}
