@@ -1,10 +1,10 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "Interactive ls command made in rust",
     "homepage": "https://github.com/Araxeus/ls-interactive",
     "license": "MIT",
-    "url": "https://github.com/Araxeus/ls-interactive/releases/download/v1.3.0/lsi_v1.3.0_windows.zip",
-    "hash": "64ec7324c7dd2930c8756532f6a9656cd9f6d285f16588b6e45f9793e4fd32e0",
+    "url": "https://github.com/Araxeus/ls-interactive/releases/download/v1.4.0/lsi_v1.4.0_windows.zip",
+    "hash": "553e50a570045ab2b8d6c4d40d6275735ed0529aea028909b896341ee28ee1da",
     "bin": [
         [
             "ls-interactive.exe",
