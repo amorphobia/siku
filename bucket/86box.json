@@ -1,17 +1,17 @@
 {
-    "version": "3.4.1",
+    "version": "3.5",
     "description": "86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.",
     "homepage": "https://86box.net/",
     "license": "GPL-2.0 License",
     "notes": "Install 86box-romset before run it.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/86Box/86Box/releases/download/v3.4.1/86Box-Windows-64-b3738.zip",
-            "hash": "8b4b258040b6b7fe25c80e7af6fbcb0801a5f93b785057bd3622e5d400d6cf64"
+            "url": "https://github.com/86Box/86Box/releases/download/v3.5/86Box-Windows-64-b3777.zip",
+            "hash": "478b64fb006e549f0db8643e906c441e8baff48d3230d120e65598594cfd95de"
         },
         "32bit": {
-            "url": "https://github.com/86Box/86Box/releases/download/v3.4.1/86Box-Windows-32-b3738.zip",
-            "hash": "65c08bc584d346163b12858c0dc09288488e299a302c8a3acc708e97a807aa53"
+            "url": "https://github.com/86Box/86Box/releases/download/v3.5/86Box-Windows-32-b3777.zip",
+            "hash": "a807229e6c27c17f6fe17ddcce46240b18580c9ab6a93ef20b9691f4b30f43a2"
         }
     },
     "suggest": {
