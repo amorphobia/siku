@@ -1,0 +1,34 @@
+{
+    "version": "1.1.3",
+    "description": "哔哩哔哩PC客户端",
+    "homepage": "https://app.bilibili.com",
+    "license": "Freeware",
+    "architecture": {
+        "64bit": {
+            "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z",
+            "hash": "a05c7080b5f71cf3ca6dbd3d7547d1e060af21e6da05ef28e9c28e9e7dc718ef",
+            "pre_install": [
+                "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+                "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Force -Recurse"
+            ]
+        }
+    },
+    "notes": "We do not persist the app's data, they are in \"$env:APPDATA\\bilibili\".",
+    "shortcuts": [
+        [
+            "哔哩哔哩.exe",
+            "哔哩哔哩"
+        ]
+    ],
+    "checkver": {
+        "url": "https://app.bilibili.com/x/v2/version?mobi_app=pc_client",
+        "regex": "PC\\s?([\\d\\.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z"
+            }
+        }
+    }
+}

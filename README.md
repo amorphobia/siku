@@ -19,6 +19,7 @@ scoop install <manifest>
 |[86box-manager](https://github.com/86Box/86BoxManager)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box-manager.json)</sup>|86Box Manager is an optional configuration manager for the 86Box emulator.|
 |[86box-romset](https://86box.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box-romset.json)</sup>|ROMs needed by the 86Box emulator|
 |[86box](https://86box.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/86box.json)</sup>|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
+|[bilibili-desktop](https://app.bilibili.com)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilibili-desktop.json)</sup>|哔哩哔哩PC客户端|
 |[cargo-binstall](https://github.com/ryankurte/cargo-binstall)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cargo-binstall.json)</sup>|cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.|
 |[cleanmywechat](https://github.com/blackboxo/CleanMyWechat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cleanmywechat.json)</sup>|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[cpu-z-zh-cn](https://www.cpuid.com/softwares/cpu-z.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)</sup>|System information software (简体中文版)|
@@ -39,8 +40,8 @@ scoop install <manifest>
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
 
-See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22)
+See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22&s=0&d=1&o=false)
 
 ## How do I contribute new manifests?
 
-To make a new manifest contribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
+Just slam open a pull request.
