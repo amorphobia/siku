@@ -21,13 +21,17 @@
         ]
     ],
     "checkver": {
-        "url": "https://app.bilibili.com/x/v2/version?mobi_app=pc_client",
-        "regex": "PC\\s?([\\d\\.]+)"
+        "url": "http://api.bilibili.com/x/elec-frontend/update/latest.yml",
+        "regex": "bilibili-setup-v([\\d\\.]+)\\.exe"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z"
+                "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z",
+                "hash": {
+                    "url": "http://api.bilibili.com/x/elec-frontend/update/latest.yml",
+                    "regex": "sha512: ([\\w\\d+\\/=]{24,88})"
+                }
             }
         }
     }
