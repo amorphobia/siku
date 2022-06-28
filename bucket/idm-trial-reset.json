@@ -20,7 +20,10 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/J2TEAM/idm-trial-reset/releases/download/v$version/IDM.Trial.Reset.v$version.zip",
-                "hash": "SHA-256:\\ [\\d\\w]+"
+                "hash": {
+                    "url": "https://github.com/J2TEAM/idm-trial-reset/releases",
+                    "regex": "SHA-256:\\ ([\\d\\w]+)"
+                }
             }
         }
     }
