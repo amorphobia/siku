@@ -36,6 +36,7 @@ scoop install <manifest>
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[scoop-find](https://github.com/amorphobia/scoop-find)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-find.json)</sup>|Find scoop apps|
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
+|[setacl](https://helgeklein.com/setacl/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/setacl.json)</sup>|Automate Permissions and Manage ACLs|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
