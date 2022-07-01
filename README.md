@@ -34,6 +34,7 @@ scoop install <manifest>
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
+|[powercolorls](https://github.com/gardebring/PowerColorLS)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/powercolorls.json)</sup>|PowerShell script to display a colorized directory and file listing with icons|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[scoop-find](https://github.com/amorphobia/scoop-find)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-find.json)</sup>|Find scoop apps|
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
