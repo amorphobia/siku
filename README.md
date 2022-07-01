@@ -39,6 +39,7 @@ scoop install <manifest>
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
 |[setacl](https://helgeklein.com/setacl/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/setacl.json)</sup>|Automate Permissions and Manage ACLs|
 |[setacl-studio](https://helgeklein.com/setacl-studio/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/setacl-studio.json)</sup>|Intuitive permission management with the power of SetACL|
+|[snipaste-x86](https://www.snipaste.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
