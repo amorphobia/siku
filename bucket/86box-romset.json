@@ -18,7 +18,7 @@
     },
     "checkver": {
         "url": "https://github.com/86Box/roms/releases/latest",
-        "re": "(?<version>[\\d]{8}) ROM set"
+        "re": "(?<version>[\\d]{8}) ROM Set"
     },
     "autoupdate": {
         "url": "https://github.com/86Box/roms/archive/refs/tags/$version.zip",
