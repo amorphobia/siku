@@ -1,15 +1,15 @@
 {
-    "version": "20220523",
+    "version": "20220701",
     "description": "ROMs needed by the 86Box emulator",
     "homepage": "https://86box.net/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/86Box/roms/blob/master/LICENSE"
     },
-    "url": "https://github.com/86Box/roms/archive/refs/tags/20220523.zip",
-    "hash": "fd405cbaa89c01b69a54cad1431c24aa42ad84bd8c792f3386a3127264109790",
+    "url": "https://github.com/86Box/roms/archive/refs/tags/20220701.zip",
+    "hash": "5853c6597ee13198a1270e9af51db72014997e28aeb9b2def9e4f304773d75c2",
     "depends": "siku/86box",
-    "extract_dir": "roms-20220523",
+    "extract_dir": "roms-20220701",
     "installer": {
         "script": "New-Item -Path \"$(appdir 86box $global)\\current\\roms\" -ItemType Junction -Value \"$dir\" | Out-Null"
     },
