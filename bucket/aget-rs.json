@@ -16,7 +16,7 @@
 		}
 	},
 	"bin": "ag.exe",
-	"checker": "github",
+	"checkver": "github",
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
