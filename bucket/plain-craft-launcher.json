@@ -16,16 +16,16 @@
     ],
     "pre_install": [
         "ensure \"$persist_dir\\PCL\" | Out-Null",
-        "ensure \"$persist_dir\\minecraft\" | Out-Null",
+        "ensure \"$persist_dir\\.minecraft\" | Out-Null",
         "$conf = \"$persist_dir\\PCL\\Setup.ini\"",
         "if (!(Test-Path \"$conf\")) {",
-        "    $content = \"LaunchFolderSelect:$persist_dir\\minecraft\\\"",
+        "    $content = \"LaunchFolderSelect:$persist_dir\\.minecraft\\\"",
         "    Add-Content \"$conf\" \"$content\"",
         "}"
     ],
     "persist": [
         "PCL",
-        "minecraft"
+        ".minecraft"
     ],
     "shortcuts": [
         [
