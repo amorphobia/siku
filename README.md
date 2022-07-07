@@ -34,6 +34,7 @@ scoop install <manifest>
 |[jijidown](http://client.jijidown.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/jijidown.json)</sup>|唧唧Down - 一个用于下载bilibili视频的PC应用程序|
 |[ls-interactive](https://github.com/Araxeus/ls-interactive)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/ls-interactive.json)</sup>|Interactive ls command made in rust|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
+|[plain-craft-launcher](https://afdian.net/@LTCat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/plain-craft-launcher.json)</sup>|新一代 Minecraft / 我的世界 启动器|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
 |[powercolorls](https://github.com/gardebring/PowerColorLS)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/powercolorls.json)</sup>|PowerShell script to display a colorized directory and file listing with icons|
