@@ -18,10 +18,9 @@
             "$registryRoot = if ($isFontInstallationForAllUsers) { \"HKLM\" } else { \"HKCU\" }",
             "$registryKey = \"${registryRoot}:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Fonts\"",
             "New-Item $fontInstallDir -ItemType Directory -ErrorAction SilentlyContinue | Out-Null",
-            "$fileFullName = \"YaHeiFiraIconHybrid-Regular.ttf\"",
-            "$value = if ($isFontInstallationForAllUsers) { \"$fileFullName\" } else { \"$fontInstallDir\\$fileFullName\" }",
+            "$value = if ($isFontInstallationForAllUsers) { \"YaHeiFiraIconHybrid-Regular.ttf\" } else { \"$fontInstallDir\\YaHeiFiraIconHybrid-Regular.ttf\" }",
             "New-ItemProperty -Path $registryKey -Name \"YaHei Fira Icon Hybrid Regular (TrueType)\" -Value $value -Force | Out-Null",
-            "Copy-Item \"$dir\\$fileFullName\" -Destination $fontInstallDir"
+            "Copy-Item \"$dir\\YaHeiFiraIconHybrid-Regular.ttf\" -Destination $fontInstallDir"
         ]
     },
     "uninstaller": {
