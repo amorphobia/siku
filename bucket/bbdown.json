@@ -17,11 +17,11 @@
     ],
     "suggest": {
         "aria2": "main/aria2",
-        "ffmpeg": [
+        "mixer": [
             "main/ffmpeg",
-            "main/ffmpeg-shared"
-        ],
-        "mp4box": "main/gpac"
+            "main/ffmpeg-shared",
+            "main/gpac"
+        ]
     },
     "checkver": {
         "github": "https://github.com/nilaoda/BBDown",
