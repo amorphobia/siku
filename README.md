@@ -44,9 +44,11 @@ scoop install <manifest>
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
 |[setacl](https://helgeklein.com/setacl/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/setacl.json)</sup>|Automate Permissions and Manage ACLs|
 |[setacl-studio](https://helgeklein.com/setacl-studio/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/setacl-studio.json)</sup>|Intuitive permission management with the power of SetACL|
+|[smartzip](https://github.com/vvyoko/SmartZip)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/smartzip.json)</sup>|用于扩展7-Zip的脚本|
 |[snipaste-x86](https://www.snipaste.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[todesk](https://www.todesk.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
+|[vfilename](https://www.vfilename.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
 |[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
