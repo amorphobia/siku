@@ -22,6 +22,7 @@ scoop install <manifest>
 |[aget-rs](https://github.com/PeterDing/aget-rs)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/aget-rs.json)</sup>|Aget-rs - Fast Asynchronous Downloader with Rust 🦀|
 |[bbdown](https://github.com/nilaoda/BBDown)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bbdown.json)</sup>|一款命令行式哔哩哔哩下载器|
 |[bilibili-desktop](https://app.bilibili.com)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilibili-desktop.json)</sup>|哔哩哔哩PC客户端|
+|[bilimini](https://github.com/chitosai/bilimini)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilimini.json)</sup>|藏起来！哔哩哔哩|
 |[cargo-binstall](https://github.com/ryankurte/cargo-binstall)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cargo-binstall.json)</sup>|cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.|
 |[cleanmywechat](https://github.com/blackboxo/CleanMyWechat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cleanmywechat.json)</sup>|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[cpu-z-zh-cn](https://www.cpuid.com/softwares/cpu-z.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)</sup>|System information software (简体中文版)|
