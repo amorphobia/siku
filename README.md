@@ -47,6 +47,7 @@ scoop install <manifest>
 |[snipaste-x86](https://www.snipaste.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[todesk](https://www.todesk.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
+|[vmping](https://github.com/R-Smith/vmPing)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
 |[wechat](https://pc.weixin.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/wechat.json)</sup>|微信电脑版|
 |[winrar-zh-cn](https://rarlab.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
