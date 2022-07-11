@@ -37,6 +37,7 @@ scoop install <manifest>
 |[iwck](https://github.com/Nigh/I-wanna-clean-keyboard)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/iwck.json)</sup>|I wanna clean keyboard - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...|
 |[jijidown](http://client.jijidown.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/jijidown.json)</sup>|唧唧Down - 一个用于下载bilibili视频的PC应用程序|
 |[ls-interactive](https://github.com/Araxeus/ls-interactive)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/ls-interactive.json)</sup>|Interactive ls command made in rust|
+|[massigra](http://www.massigra.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/massigra.json)</sup>|シンプルで高速な単画面型の画像ビューワ|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
 |[plain-craft-launcher](https://afdian.net/@LTCat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/plain-craft-launcher.json)</sup>|新一代 Minecraft / 我的世界 启动器|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
