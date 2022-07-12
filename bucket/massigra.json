@@ -20,7 +20,13 @@
         ]
     ],
     "checkver": {
-        "url": "http://www.massigra.net/",
-        "regex": "MassiGra Version ([\\d\\.]+)"
+        "url": "https://siku-api.deno.dev/massigra",
+        "regex": "\"ver\"\\s?:\\s?\"([\\d\\.]+)\".*?\"software_dl_url\"\\s?:\\s?\"(?<soft>.*?)\".*?\"help_dl_url\"\\s?:\\s?\"(?<help>.*?)\""
+    },
+    "autoupdate": {
+        "url": [
+            "$matchSoft",
+            "$matchHelp"
+        ]
     }
 }
