@@ -1,12 +1,12 @@
 {
-    "version": "1.2.2",
+    "version": "1.3.0",
     "description": "哔哩哔哩PC客户端",
     "homepage": "https://app.bilibili.com",
     "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z",
-            "hash": "sha512:e10f45008688c1879b297af1514b6743dac4022faa8db57cb4d083ecb39128d969d87d7aacf5fdf06a04df2c67aa09aa0ee3aa327dd285a6e09be9dae84bd254",
+            "hash": "5b0d0915c3f9adec990d456825d18e9e6446e4883447d716d265bf28739fe5fd",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Force -Recurse"
@@ -21,17 +21,13 @@
         ]
     ],
     "checkver": {
-        "url": "http://api.bilibili.com/x/elec-frontend/update/latest.yml",
-        "regex": "bilibili-setup-v([\\d\\.]+)\\.exe"
+        "url": "https://app.bilibili.com/x/v2/version?mobi_app=pc_client",
+        "regex": "PC\\s?([\\d\\.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z",
-                "hash": {
-                    "url": "http://api.bilibili.com/x/elec-frontend/update/latest.yml",
-                    "regex": "sha512: ([\\w\\d+\\/=]{24,88})"
-                }
+                "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe#/dl.7z"
             }
         }
     }
