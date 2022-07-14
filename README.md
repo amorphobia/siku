@@ -39,6 +39,7 @@ scoop install <manifest>
 |[ls-interactive](https://github.com/Araxeus/ls-interactive)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/ls-interactive.json)</sup>|Interactive ls command made in rust|
 |[massigra](http://www.massigra.net/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/massigra.json)</sup>|シンプルで高速な単画面型の画像ビューワ|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
+|[parsify-desktop](https://parsify.app/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/parsify-desktop.json)</sup>|Next generation notepad-based calculator, built with extendibility and privacy in mind.|
 |[plain-craft-launcher](https://afdian.net/@LTCat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/plain-craft-launcher.json)</sup>|新一代 Minecraft / 我的世界 启动器|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
