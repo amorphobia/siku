@@ -30,5 +30,18 @@
         ]
     ],
     "persist": "rarreg.key",
-    "checkver": "WinRAR and RAR ([\\d.]+) release"
+    "checkver": {
+        "url": "https://siku-api.deno.dev/winrar",
+        "regex": "\"ver\"\\s?:\\s?\"([\\d\\.]+)\".*?\"x64_date\"\\s?:\\s?\"(?<x64d>.*?)\".*?\"x32_date\"\\s?:\\s?\"(?<x32d>.*?)\""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc$matchX64d/wrr/winrar-x64-$cleanVersionsc.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc$matchX32d/wrr/winrar-x32-$cleanVersionsc.exe#/dl.7z"
+            }
+        }
+    }
 }
