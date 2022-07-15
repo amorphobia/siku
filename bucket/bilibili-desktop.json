@@ -13,7 +13,6 @@
             ]
         }
     },
-    "notes": "We do not persist the app's data, they are in \"$env:APPDATA\\bilibili\".",
     "shortcuts": [
         [
             "哔哩哔哩.exe",

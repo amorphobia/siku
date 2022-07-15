@@ -20,9 +20,6 @@
             "Bilimini"
         ]
     ],
-    "notes": [
-        "We do not persist your data. They are in $env:APPDATA\\bilimini."
-    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
