@@ -12,9 +12,27 @@
         "script": [
             "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
             "Remove-Item \"$dir\\`$_15_\" -Force -Recurse",
-            "Remove-Item \"$dir\\`$R5\" -Force -Recurse"
+            "Remove-Item \"$dir\\`$R5\" -Force -Recurse",
+            "$WeChatAppData = \"$env:APPDATA\\Tencent\\WeChat\"",
+            "ensure \"$WeChatAppData\\All Users\\config\" | Out-Null",
+            "ensure \"$persist_dir\\WeChat Files\" | Out-Null",
+            "if (Test-Path \"$WeChatAppData\\All Users\\config\\3ebffe94.ini\") {",
+            "    Remove-Item -Force \"$WeChatAppData\\All Users\\config\\3ebffe94.ini\"",
+            "}",
+            "Set-Content -NoNewline -Path \"$WeChatAppData\\All Users\\config\\3ebffe94.ini\" -Value \"$persist_dir\"",
+            "$regPath = \"HKCU:Software\\Tencent\\WeChat\"",
+            "New-Item $regPath -Type Directory -Force | Out-Null",
+            "New-ItemProperty -Path $regPath -Name \"FileSavePath\" -Value \"$persist_dir\" | Out-Null"
         ]
     },
+    "uninstaller": {
+        "script": [
+            "Remove-Item \"HKCU:Software\\Tencent\\WeChat\" -Recurse -Force -ErrorAction SilentlyContinue",
+            "Remove-Item \"$env:APPDATA\\Tencent\\WeChat\" -Recurse -Force -ErrorAction SilentlyContinue",
+            "Remove-Item \"$env:APPDATA\\Tencent\\WeChatApp\" -Recurse -Force -ErrorAction SilentlyContinue"
+        ]
+    },
+    "persist": "WeChat Files",
     "shortcuts": [
         [
             "wechat.exe",
