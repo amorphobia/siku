@@ -44,6 +44,7 @@ scoop install <manifest>
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
 |[powercolorls](https://github.com/gardebring/PowerColorLS)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/powercolorls.json)</sup>|PowerShell script to display a colorized directory and file listing with icons|
+|[qqplayer](https://player.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音是一款支持丰富视频、音频文件格式的本地播放器|
 |[qsv](https://github.com/jqnatividad/qsv)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
 |[rains](https://github.com/rookie0/rains)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
