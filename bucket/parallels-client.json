@@ -13,6 +13,14 @@
             "hash": "ce7e3805a220880583bfdcb5f2d64a4a6b467ca0bbe9f01c968215fcf0baa977"
         }
     },
+    "installer": {
+        "script": [
+            "if (!(Test-Path \"$persist_dir\\mysettings.xml\")) {",
+            "    New-Item -Path \"$dir\\mysettings.xml\" -Force | Out-Null",
+            "}"
+        ]
+    },
+    "persist": "mysettings.xml",
     "shortcuts": [
         [
             "AppServerClient.exe",
