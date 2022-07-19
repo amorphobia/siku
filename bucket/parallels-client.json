@@ -1,0 +1,36 @@
+{
+    "version": "18.3.1.22909",
+    "description": "Parallels(R) Client is a lightweight software that enables end-users to securely access virtual applications and desktops from Windows, Mac, Linux, iOS/iPadOS, Android, Google Chromebook and any HTML5 web browser.",
+    "homepage": "https://www.parallels.com/products/ras/capabilities/parallels-client/",
+    "license": "EULA",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.parallels.com/ras/v18/18.3.1.22909/RASClient_Basic-x64-18.3.22909.zip",
+            "hash": "25ee65a5918adb139f164495f3283adab23f403b2787e7856bb054fb8a590077"
+        },
+        "32bit": {
+            "url": "https://download.parallels.com/ras/v18/18.3.1.22909/RASClient_Basic-18.3.22909.zip",
+            "hash": "ce7e3805a220880583bfdcb5f2d64a4a6b467ca0bbe9f01c968215fcf0baa977"
+        }
+    },
+    "shortcuts": [
+        [
+            "AppServerClient.exe",
+            "Parallels Client"
+        ]
+    ],
+    "checkver": {
+        "url": "https://download.parallels.com/website_links/ras/18/builds-en_US.json",
+        "regex": "/([\\d\\.]+)/RASClient_Basic-[\\d\\.]+\\.zip"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.parallels.com/ras/v$majorVersion/$version/RASClient_Basic-x64-$majorVersion.$minorVersion.$buildVersion.zip"
+            },
+            "32bit": {
+                "url": "https://download.parallels.com/ras/v$majorVersion/$version/RASClient_Basic-$majorVersion.$minorVersion.$buildVersion.zip"
+            }
+        }
+    }
+}
