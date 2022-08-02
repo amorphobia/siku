@@ -1,15 +1,15 @@
 {
-    "version": "20220701",
+    "version": "3.7",
     "description": "ROMs needed by the 86Box emulator",
     "homepage": "https://86box.net/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/86Box/roms/blob/master/LICENSE"
     },
-    "url": "https://github.com/86Box/roms/archive/refs/tags/20220701.zip",
-    "hash": "5853c6597ee13198a1270e9af51db72014997e28aeb9b2def9e4f304773d75c2",
+    "url": "https://github.com/86Box/roms/archive/refs/tags/v3.7.zip",
+    "hash": "8d499048a17491f035ae7d2e2702a43a36b1e25d21805902a57374bdbcf45d9e",
     "depends": "siku/86box",
-    "extract_dir": "roms-20220701",
+    "extract_dir": "roms-3.7",
     "installer": {
         "script": "New-Item -Path \"$(appdir 86box $global)\\current\\roms\" -ItemType Junction -Value \"$dir\" | Out-Null"
     },
@@ -17,11 +17,10 @@
         "script": "Remove-Item \"$(appdir 86box $global)\\current\\roms\" -Force -Recurse -Confirm:$False -ErrorAction SilentlyContinue"
     },
     "checkver": {
-        "url": "https://github.com/86Box/roms/releases/latest",
-        "re": "(?<version>[\\d]{8}) (?i)ROM Set"
+        "github": "https://github.com/86Box/roms"
     },
     "autoupdate": {
-        "url": "https://github.com/86Box/roms/archive/refs/tags/$version.zip",
+        "url": "https://github.com/86Box/roms/archive/refs/tags/v$version.zip",
         "extract_dir": "roms-$version"
     }
 }
