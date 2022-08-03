@@ -44,7 +44,7 @@
     "uninstaller": {
         "script": [
             "info \"Unregistering PopBlock database path\"",
-            "sudo reg.exe delete HKLM\\SOFTWARE\\Huorong /f | Out-Null"
+            "sudo Remove-ItemProperty -Path \"HKLM:Software\\Huorong\\Sysdiag\\app\" -Name \"DataPath\" -Force | Out-Null"
         ]
     },
     "persist": [
