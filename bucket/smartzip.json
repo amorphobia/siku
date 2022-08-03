@@ -1,13 +1,13 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "description": "用于扩展7-Zip的脚本",
     "homepage": "https://github.com/vvyoko/SmartZip",
     "license": "MIT",
     "depends": "main/7zip",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vvyoko/SmartZip/releases/download/3.3/SmartZip.3.3.zip",
-            "hash": "b80e1042e23a8d75a214f7814e514f2ed2f3348c470334c939bcc7e6d1d3b298",
+            "url": "https://github.com/vvyoko/SmartZip/releases/download/3.4/SmartZip.3.4.zip",
+            "hash": "e87f560c9490e832c996a2628880485df46ad4f2a91ed7e05267f8ac498d072c",
             "extract_dir": "SmartZip"
         }
     },
