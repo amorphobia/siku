@@ -1,5 +1,6 @@
 {
     "version": "1.002",
+    "description": "适用于 Vim 及终端图标的中英文混合字体",
     "license": "Apache-2.0",
     "homepage": "https://github.com/HanleyLee/Yahei-Fira-Icon-Hybrid-Font",
     "url": "https://raw.githubusercontent.com/hanleylee/yahei-fira-icon-hybrid-font/master/YaHeiFiraIconHybrid-Regular.ttf",
