@@ -57,6 +57,7 @@ scoop install <manifest>
 |[smartzip](https://github.com/vvyoko/SmartZip)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/smartzip.json)</sup>|用于扩展7-Zip的脚本|
 |[snipaste-x86](https://www.snipaste.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
+|[tally-marks](https://github.com/adobe-fonts/tally-marks)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/tally-marks.json)</sup>|Tally Marks OpenType-SVG Font|
 |[todesk](https://www.todesk.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
 |[vfilename](https://www.vfilename.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
