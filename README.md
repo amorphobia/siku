@@ -49,6 +49,7 @@ scoop install <manifest>
 |[qqplayer](https://player.qq.com/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音是一款支持丰富视频、音频文件格式的本地播放器|
 |[qsv](https://github.com/jqnatividad/qsv)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
 |[rains](https://github.com/rookie0/rains)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
+|[revokemsgpatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/revokemsgpatcher.json)</sup>|PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[scoop-find](https://github.com/amorphobia/scoop-find)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-find.json)</sup>|Find scoop apps|
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
