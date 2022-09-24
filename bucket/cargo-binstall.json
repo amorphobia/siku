@@ -1,10 +1,10 @@
 {
-    "version": "0.13.1",
+    "version": "0.13.2",
     "description": "cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.",
     "homepage": "https://github.com/ryankurte/cargo-binstall",
     "license": "GPL-3.0",
-    "url": "https://github.com/ryankurte/cargo-binstall/releases/download/v0.13.1/cargo-binstall-x86_64-pc-windows-msvc.zip",
-    "hash": "fe7dd68ea734c6aa2e4df1764da5b433017c5f5e083e9e145e1642b68b0a983c",
+    "url": "https://github.com/ryankurte/cargo-binstall/releases/download/v0.13.2/cargo-binstall-x86_64-pc-windows-msvc.zip",
+    "hash": "bf4ce65042f9b5ad3868c1c407edd9b5705d1c3d7e097605c5d2cd5140082654",
     "bin": "cargo-binstall.exe",
     "notes": [
         "The installer will try to find create a hard link in the cargo's bin directory",
