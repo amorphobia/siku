@@ -33,6 +33,7 @@ scoop install <manifest>
 |[dsynchornize-zh-cn](http://dimio.altervista.org/eng/#DSynchronize)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize-zh-cn.json)</sup>|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server. (简体中文版)|
 |[dvm](https://github.com/justjavac/dvm)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/dvm.json)</sup>|🦕Deno Version Manager - Easy way to manage multiple active deno versions.|
 |[fido](https://github.com/pbatard/Fido)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)</sup>|A PowerShell download script for Windows ISOs and UEFI Shell|
+|[mdict](https://www.mdict.cn/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/mdict.json)</sup>|MDict 是一款电子辞典软件|
 |[mihome-token](https://github.com/Maxmudjon/Get_MiHome_devices_token)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/mihome-token.json)</sup>|Get Mi Home devices token Windows/MacOS app|
 |[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
