@@ -12,7 +12,10 @@
             "MDict"
         ]
     ],
-    "persist": "doc",
+    "persist": [
+        "audiolib",
+        "doc"
+    ],
     "checkver": {
         "url": "https://www.mdict.cn/wp/?page_id=5325",
         "regex": "Windows\\ \\(([\\d\\.]+)\\)"
