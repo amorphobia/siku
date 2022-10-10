@@ -1,17 +1,17 @@
 {
-    "version": "2.3.2",
+    "version": "2.3.5",
     "description": "新一代 Minecraft / 我的世界 启动器",
     "homepage": "https://afdian.net/@LTCat",
     "license": {
         "identifier": "Freeware",
         "url": "https://shimo.im/docs/rGrd8pY8xWkt6ryW/read"
     },
-    "url": "https://api.hanximeng.com/lanzou/?url=https://ltcat.lanzoum.com/i8SV509vxxah&type=down#/dl.zip",
-    "hash": "12638703b06c3ca0e5ab9dae47512c49348d0f6a8b454c0ce392492749b1edb1",
+    "url": "https://api.hanximeng.com/lanzou/?url=https://ltcat.lanzoum.com/iepcN0djomva&type=down#/dl.zip",
+    "hash": "b643f3685489b6dffe593995547259742b330274de5c65a9c564c61d22d3d39e",
     "notes": [
         "由于使用了 hanximeng/LanzouAPI 的 API 演示地址以获取蓝奏云直链，",
         "下载可能失败，请重试直至成功。或去 https://afdian.net/@LTCat 手动下载 zip 文件，",
-        "改名为 plain-craft-launcher#2.3.2#https_api.hanximeng.com_lanzou_url_https_ltcat.lanzoum.com_i8SV509vxxah_type_down_dl.zip",
+        "改名为 plain-craft-launcher#2.3.5#https_api.hanximeng.com_lanzou_url_https_ltcat.lanzoum.com_iepcN0djomva_type_down_dl.zip",
         "放入 scoop 的 cache 路径再运行安装命令。"
     ],
     "pre_install": [
