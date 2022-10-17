@@ -1,5 +1,5 @@
 {
-    "version": "5.0.70.0",
+    "version": "5.0.70.1",
     "description": "火绒弹窗拦截独立版",
     "homepage": "https://www.huorong.cn/person5.html",
     "license": "Freeware",
@@ -8,8 +8,8 @@
         "安装时会修改注册表中拦截数据库路径至 <persist_dir>, 与火绒完整版不兼容。",
         "卸载时会删除相应的注册表，若同时存在火绒完整版，需重新安装以修复注册表。"
     ],
-    "url": "https://down5.huorong.cn/sysdiag-all-5.0.70.0-2022.10.11.1.exe#/dl.7z",
-    "hash": "abb002cdced0d748b458aee8eff973630ffffaa14c5ee4f8fb8f1e1aed413128",
+    "url": "https://down5.huorong.cn/sysdiag-all-5.0.70.1-2022.10.17.2.exe#/dl.7z",
+    "hash": "1ae5c7598a6701ed6d642ce1bb9ee2834c7a563632bcb324fe993c5c53ca44a1",
     "depends": "sudo",
     "extract_to": "temp",
     "pre_install": [
