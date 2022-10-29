@@ -12,10 +12,12 @@
     "extract_dir": "[WPF]JJDown",
     "pre_install": [
         "ensure \"$persist_dir\\Config\" | Out-Null",
+        "ensure \"$persist_dir\\Download\" | Out-Null",
         "ensure \"$persist_dir\\Language\" | Out-Null"
     ],
     "persist": [
         "Config",
+        "Download",
         "Language"
     ],
     "shortcuts": [
