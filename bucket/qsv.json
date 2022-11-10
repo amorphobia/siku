@@ -1,16 +1,16 @@
 {
-    "version": "0.71.0",
+    "version": "0.71.1",
     "description": "qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.",
     "homepage": "https://github.com/jqnatividad/qsv",
     "license": "Unlicense or MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jqnatividad/qsv/releases/download/0.71.0/qsv-0.71.0-x86_64-pc-windows-msvc.zip",
-            "hash": "24dd19d2feefe35a82806ea7bbe07ef9f556d9412e542be86b9df391b0353802"
+            "url": "https://github.com/jqnatividad/qsv/releases/download/0.71.1/qsv-0.71.1-x86_64-pc-windows-msvc.zip",
+            "hash": "ce284ae761a378d38d41fbedc182f7bc911bff12787c3a7a8109cfe9170f01ea"
         },
         "32bit": {
-            "url": "https://github.com/jqnatividad/qsv/releases/download/0.71.0/qsv-0.71.0-i686-pc-windows-msvc.zip",
-            "hash": "8ee2d4edc4acb0eaade84799f86f8eefe7727bd02cbcdf27264edecb6de09f90"
+            "url": "https://github.com/jqnatividad/qsv/releases/download/0.71.1/qsv-0.71.1-i686-pc-windows-msvc.zip",
+            "hash": "0f59a27ea98f69cb190150cf8674dcbf9e68b085247501a8c6608ca9645dffeb"
         }
     },
     "bin": [
