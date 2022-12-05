@@ -22,6 +22,7 @@ scoop install <manifest>
 |[aget-rs](https://github.com/PeterDing/aget-rs)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/aget-rs.json)</sup>|Aget-rs - Fast Asynchronous Downloader with Rust 🦀|
 |[bbdown](https://github.com/nilaoda/BBDown)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bbdown.json)</sup>|一款命令行式哔哩哔哩下载器|
 |[bcdown](https://github.com/lihe07/bilibili_comics_downloader)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bcdown.json)</sup>|用Rust重写的Bilibili漫画下载器！无环境依赖，超高下载性能，支持pdf epub zip格式|
+|[bdinfo](https://www.videohelp.com/software/BDInfo)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bdinfo.json)</sup>|The BDInfo tool was designed to collect video and audio technical specifications from Blu-ray movie discs|
 |[bilibili-desktop](https://app.bilibili.com)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilibili-desktop.json)</sup>|哔哩哔哩PC客户端|
 |[bilimini](https://github.com/chitosai/bilimini)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilimini.json)</sup>|藏起来！哔哩哔哩|
 |[cargo-binstall](https://github.com/ryankurte/cargo-binstall)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cargo-binstall.json)</sup>|cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.|
