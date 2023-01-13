@@ -26,6 +26,7 @@ scoop install <manifest>
 |[bilibili-desktop](https://app.bilibili.com)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilibili-desktop.json)</sup>|哔哩哔哩PC客户端|
 |[bilimini](https://github.com/chitosai/bilimini)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/bilimini.json)</sup>|藏起来！哔哩哔哩|
 |[cargo-binstall](https://github.com/ryankurte/cargo-binstall)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cargo-binstall.json)</sup>|cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.|
+|[clash-for-windows](https://github.com/Fndroid/clash_for_windows_pkg)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/clash-for-windows.json)</sup>|A Windows GUI based on Clash|
 |[clash-verge](https://github.com/zzzgydi/clash-verge)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/clash-verge.json)</sup>|A Clash GUI based on tauri|
 |[cleanmywechat](https://github.com/blackboxo/CleanMyWechat)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cleanmywechat.json)</sup>|自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。|
 |[cpu-z-zh-cn](https://www.cpuid.com/softwares/cpu-z.html)<sup>[manifest](https://github.com/amorphobia/siku/blob/master/bucket/cpu-z-zh-cn.json)</sup>|System information software (简体中文版)|
