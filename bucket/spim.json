@@ -1,10 +1,10 @@
 {
-    "version": "9.1.21",
+    "version": "9.1.23",
     "description": "SPIM A MIPS32 Simulator",
     "homepage": "https://pages.cs.wisc.edu/~larus/spim.html",
     "license": "BSD",
-    "url": "https://downloads.sourceforge.net/project/spimsimulator/QtSpim_9.1.21_Windows.msi",
-    "hash": "sha1:54c9d241567b7f8499db67667075974055b98279",
+    "url": "https://downloads.sourceforge.net/project/spimsimulator/QtSpim_9.1.23_Windows.msi",
+    "hash": "sha1:c650756c9dd587f3b40a71d530b5df01394c97bf",
     "notes": [
         "QtSpim hardcoded searching paths for help files. To make them available in menu, create a symbolic link by running with administrator rights:",
         "New-Item ${Env:PROGRAMFILES(x86)}\\QtSpim -ItemType Directory",
