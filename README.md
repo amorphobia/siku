@@ -25,6 +25,7 @@ scoop install <manifest>
 |[bdinfo](https://www.videohelp.com/software/BDInfo)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bdinfo.json)</sup>|The BDInfo tool was designed to collect video and audio technical specifications from Blu-ray movie discs|
 |[bilibili-desktop](https://app.bilibili.com)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bilibili-desktop.json)</sup>|哔哩哔哩PC客户端|
 |[bilimini](https://github.com/chitosai/bilimini)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bilimini.json)</sup>|藏起来！哔哩哔哩|
+|[bind-lean](https://www.isc.org/bind/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bind-lean)</sup>|Versatile, classic, complete name server software.|
 |[cargo-binstall](https://github.com/ryankurte/cargo-binstall)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/cargo-binstall.json)</sup>|cargo binstall provides a low-complexity mechanism for installing rust binaries as an alternative to building from source (via cargo install) or manually downloading packages.|
 |[clash-for-windows](https://github.com/Fndroid/clash_for_windows_pkg)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/clash-for-windows.json)</sup>|A Windows GUI based on Clash|
 |[clash-verge](https://github.com/zzzgydi/clash-verge)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/clash-verge.json)</sup>|A Clash GUI based on tauri|
