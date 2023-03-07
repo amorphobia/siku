@@ -70,6 +70,7 @@ scoop install <manifest>
 |[snipaste-x86](https://www.snipaste.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[tally-marks](https://github.com/adobe-fonts/tally-marks)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tally-marks.json)</sup>|Tally Marks OpenType-SVG Font|
+|[tautulli](https://tautulli.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tautulli.json)</sup>|A python based web application for monitoring, analytics and notifications for Plex Media Server.|
 |[todesk](https://www.todesk.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
 |[vfilename](https://www.vfilename.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
