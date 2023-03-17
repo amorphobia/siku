@@ -69,6 +69,7 @@ scoop install <manifest>
 |[setacl-studio](https://helgeklein.com/setacl-studio/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/setacl-studio.json)</sup>|Intuitive permission management with the power of SetACL|
 |[smartzip](https://github.com/vvyoko/SmartZip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/smartzip.json)</sup>|用于扩展7-Zip的脚本|
 |[snipaste-x86](https://www.snipaste.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
+|[sonarr](https://sonarr.tv/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sonarr.json)</sup>|Sonarr is an internet PVR for Usenet and Torrents.|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[tally-marks](https://github.com/adobe-fonts/tally-marks)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tally-marks.json)</sup>|Tally Marks OpenType-SVG Font|
 |[tautulli](https://tautulli.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tautulli.json)</sup>|A python based web application for monitoring, analytics and notifications for Plex Media Server.|
