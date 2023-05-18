@@ -61,6 +61,7 @@ scoop install <manifest>
 |[powercolorls](https://github.com/gardebring/PowerColorLS)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/powercolorls.json)</sup>|PowerShell script to display a colorized directory and file listing with icons|
 |[qqplayer](https://player.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音是一款支持丰富视频、音频文件格式的本地播放器|
 |[qsv](https://github.com/jqnatividad/qsv)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
+|[quark-cloud-drive](https://pan.quark.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/quark-cloud-drive.json)</sup>|夸克网盘 电脑高效拍档 一键存爽快看|
 |[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/radarr.json)</sup>|A fork of Sonarr to work with movies à la Couchpotato.|
 |[rains](https://github.com/rookie0/rains)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
 |[revokemsgpatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/revokemsgpatcher.json)</sup>|PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|
