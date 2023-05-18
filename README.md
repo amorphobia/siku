@@ -19,6 +19,7 @@ scoop install <manifest>
 |[86box-manager](https://github.com/86Box/86BoxManager)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/86box-manager.json)</sup>|86Box Manager is an optional configuration manager for the 86Box emulator.|
 |[86box-romset](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/86box-romset.json)</sup>|ROMs needed by the 86Box emulator|
 |[86box](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/86box.json)</sup>|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
+|[adrive](https://www.aliyundrive.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/adrive.json)</sup>|阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，由阿里巴巴集团出品|
 |[aget-rs](https://github.com/PeterDing/aget-rs)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/aget-rs.json)</sup>|Aget-rs - Fast Asynchronous Downloader with Rust 🦀|
 |[bbdown](https://github.com/nilaoda/BBDown)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bbdown.json)</sup>|一款命令行式哔哩哔哩下载器|
 |[bcdown](https://github.com/lihe07/bilibili_comics_downloader)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bcdown.json)</sup>|用Rust重写的Bilibili漫画下载器！无环境依赖，超高下载性能，支持pdf epub zip格式|
