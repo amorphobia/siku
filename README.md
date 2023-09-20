@@ -65,6 +65,7 @@ scoop install <manifest>
 |[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/radarr.json)</sup>|A fork of Sonarr to work with movies à la Couchpotato.|
 |[rains](https://github.com/rookie0/rains)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
 |[revokemsgpatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/revokemsgpatcher.json)</sup>|PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|
+|[rubick](https://rubick.vip/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rubick.json)</sup>|Electron based open source toolbox, free integration of rich plug-ins.|
 |[rust-sl](https://github.com/amorphobia/rust-sl)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rust-sl.json)</sup>|A rust port of sl.|
 |[scoop-find](https://github.com/amorphobia/scoop-find)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/scoop-find.json)</sup>|Find scoop apps|
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
