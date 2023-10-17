@@ -42,6 +42,7 @@ scoop install <manifest>
 |[dvm](https://github.com/justjavac/dvm)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/dvm.json)</sup>|🦕Deno Version Manager - Easy way to manage multiple active deno versions.|
 |[fido](https://github.com/pbatard/Fido)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)</sup>|A PowerShell download script for Windows ISOs and UEFI Shell|
 |[mdict](https://www.mdict.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mdict.json)</sup>|MDict 是一款电子辞典软件|
+|[microdicom-dicom-viewer](https://www.microdicom.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/microdicom-dicom-viewer.json)</sup>|MicroDicom is application for primary processing and preservation of medical images in DICOM format|
 |[mihome-token](https://github.com/Maxmudjon/Get_MiHome_devices_token)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mihome-token.json)</sup>|Get Mi Home devices token Windows/MacOS app|
 |[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
