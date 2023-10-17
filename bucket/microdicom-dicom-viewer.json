@@ -13,7 +13,7 @@
             "hash": "c78c1570cfd095d09ccdf322b363fae526314af6d4f9fbc9ac50460824ede220"
         }
     },
-    "hortcuts": [
+    "shortcuts": [
         [
             "mDicom.exe",
             "MicroDicom DICOM Viewer"
