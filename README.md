@@ -87,6 +87,7 @@ scoop install <manifest>
 |[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wiliwili.json)</sup>|一个专为手柄用户设计的第三方B站客户端|
 |[winrar-zh-cn](https://rarlab.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
+|[xplist](https://github.com/ic005k/Xplist)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/xplist.json)</sup>|Cross-platform Plist Editor|
 |[yahei-fira-icon-hybrid](https://github.com/HanleyLee/Yahei-Fira-Icon-Hybrid-Font)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yahei-fira-icon-hybrid.json)</sup>|适用于 Vim 及终端图标的中英文混合字体|
 |[yakc](https://github.com/iammodev/YAKC)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yakc.json)</sup>|YAKC is a Key/Mouse Click Visualizer|
 |[yourav](https://github.com/Tlaster/YourAV)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yourav.json)</sup>|宇宙级最轻量杀毒软件|
