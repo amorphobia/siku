@@ -86,7 +86,6 @@ scoop install <manifest>
 |[vfilename](https://www.vfilename.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
 |[wechatexporter](https://github.com/BlueMatthew/WechatExporter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wechatexporter.json)</sup>|Wechat Chat History Exporter 微信聊天记录导出备份程序|
-|[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wiliwili.json)</sup>|一个专为手柄用户设计的第三方B站客户端|
 |[winrar-zh-cn](https://rarlab.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
 |[xplist](https://github.com/ic005k/Xplist)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/xplist.json)</sup>|Cross-platform Plist Editor|
@@ -96,6 +95,13 @@ scoop install <manifest>
 |[you-get](https://you-get.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/you-get.json)</sup>|A tiny command-line utility to download media contents (videos, audios, images) from the Web|
 
 See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22&s=0&d=1&o=false)
+
+## Deprecated Apps
+
+|App|Description|
+|----|----|
+|[wechat](https://pc.weixin.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wechat.json)</sup>|微信电脑版|
+|[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wiliwili.json)</sup>|一个专为手柄用户设计的第三方B站客户端|
 
 ## How do I contribute new manifests?
 
