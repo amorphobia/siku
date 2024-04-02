@@ -47,6 +47,7 @@ scoop install <manifest>
 |[imazing-converter](https://imazing.com/converter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/imazing-converter.json)</sup>|iMazing Converter. A tiny and free app for Mac and PC that converts photos from HEIC to JPEG, and videos from HEVC/H.265 to MP4/H.264. Enjoy!|
 |[iwck](https://github.com/Nigh/I-wanna-clean-keyboard)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/iwck.json)</sup>|I wanna clean keyboard - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...|
 |[jijidown](http://client.jijidown.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/jijidown.json)</sup>|唧唧Down - 一个用于下载bilibili视频的PC应用程序|
+|[librime](https://rime.im/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/librime.json)</sup>|Rime Input Method Engine|
 |[ls-interactive](https://github.com/Araxeus/ls-interactive)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/ls-interactive.json)</sup>|Interactive ls command made in rust|
 |[massigra](http://www.massigra.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/massigra.json)</sup>|シンプルで高速な単画面型の画像ビューワ|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
