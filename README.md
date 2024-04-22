@@ -38,9 +38,6 @@ scoop install <manifest>
 |[dsynchornize-zh-cn](http://dimio.altervista.org/eng/#DSynchronize)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize-zh-cn.json)</sup>|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server. (简体中文版)|
 |[dvm](https://github.com/justjavac/dvm)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/dvm.json)</sup>|🦕Deno Version Manager - Easy way to manage multiple active deno versions.|
 |[fido](https://github.com/pbatard/Fido)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)</sup>|A PowerShell download script for Windows ISOs and UEFI Shell|
-|[mdict](https://www.mdict.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mdict.json)</sup>|MDict 是一款电子辞典软件|
-|[microdicom-dicom-viewer](https://www.microdicom.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/microdicom-dicom-viewer.json)</sup>|MicroDicom is application for primary processing and preservation of medical images in DICOM format|
-|[mihome-token](https://github.com/Maxmudjon/Get_MiHome_devices_token)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mihome-token.json)</sup>|Get Mi Home devices token Windows/MacOS app|
 |[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/idm-trial-reset.json)</sup>|Use IDM forever without cracking|
@@ -49,7 +46,11 @@ scoop install <manifest>
 |[jijidown](http://client.jijidown.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/jijidown.json)</sup>|唧唧Down - 一个用于下载bilibili视频的PC应用程序|
 |[librime](https://rime.im/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/librime.json)</sup>|Rime Input Method Engine|
 |[ls-interactive](https://github.com/Araxeus/ls-interactive)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/ls-interactive.json)</sup>|Interactive ls command made in rust|
+|[magicsplat-tcl-tk](https://www.magicsplat.com/tcl-installer/index.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/magicsplat-tcl-tk.json)</sup>|Tcl/Tk for Windows systems|
 |[massigra](http://www.massigra.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/massigra.json)</sup>|シンプルで高速な単画面型の画像ビューワ|
+|[mdict](https://www.mdict.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mdict.json)</sup>|MDict 是一款电子辞典软件|
+|[microdicom-dicom-viewer](https://www.microdicom.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/microdicom-dicom-viewer.json)</sup>|MicroDicom is application for primary processing and preservation of medical images in DICOM format|
+|[mihome-token](https://github.com/Maxmudjon/Get_MiHome_devices_token)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mihome-token.json)</sup>|Get Mi Home devices token Windows/MacOS app|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
 |[odin](https://odin-lang.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/odin.json)</sup>|The Data-Oriented Language for Sane Software Development.|
 |[parallels-client](https://www.parallels.com/products/ras/capabilities/parallels-client/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/parallels-client.json)</sup>|Parallels(R) Client is a lightweight software that enables end-users to securely access virtual applications and desktops from Windows, Mac, Linux, iOS/iPadOS, Android, Google Chromebook and any HTML5 web browser.|
