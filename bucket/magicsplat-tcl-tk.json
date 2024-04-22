@@ -17,7 +17,10 @@
         }
     },
     "##": "No easy way to find tcl version here",
-    "bin": "Tcl8.6\\bin\\tclsh.exe",
+    "bin": [
+        "Tcl8.6\\bin\\tclsh.exe",
+        "Tcl8.6\\bin\\wish.exe"
+    ],
     "shortcuts": [
         [
             "Tcl8.6\\bin\\wish.exe",
