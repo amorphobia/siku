@@ -62,7 +62,6 @@ scoop install <manifest>
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
 |[powercolorls](https://github.com/gardebring/PowerColorLS)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/powercolorls.json)</sup>|PowerShell script to display a colorized directory and file listing with icons|
 |[qqplayer](https://player.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音是一款支持丰富视频、音频文件格式的本地播放器|
-|[qsv](https://github.com/jqnatividad/qsv)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
 |[quark-cloud-drive](https://pan.quark.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/quark-cloud-drive.json)</sup>|夸克网盘 电脑高效拍档 一键存爽快看|
 |[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/radarr.json)</sup>|A fork of Sonarr to work with movies à la Couchpotato.|
 |[rains](https://github.com/rookie0/rains)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
@@ -105,6 +104,7 @@ Deprecated Apps can be found in scoop official buckets.
 |[86box-manager](https://github.com/86Box/86BoxManager)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box-manager.json)</sup>|86Box Manager is an optional configuration manager for the 86Box emulator.|
 |[86box-romset](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box-romset.json)</sup>|ROMs needed by the 86Box emulator|
 |[86box](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box.json)</sup>|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
+|[qsv](https://github.com/jqnatividad/qsv)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
 |[wechat](https://pc.weixin.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wechat.json)</sup>|微信电脑版|
 |[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wiliwili.json)</sup>|一个专为手柄用户设计的第三方B站客户端|
 
