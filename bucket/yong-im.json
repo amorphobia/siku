@@ -24,6 +24,7 @@
             ]
         }
     },
+    "persist": ".yong",
     "checkver": {
         "url": "https://yong.dgod.net/download/",
         "regex": "yong-win-([\\d\\.]+)-(?<rev>[\\d]+)\\.7z"
