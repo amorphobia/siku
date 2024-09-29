@@ -10,10 +10,6 @@
         [
             "RevokeMsgPatcher.exe",
             "RevokeMsgPatcher"
-        ],
-        [
-            "RevokeMsgPatcher.MultiInstance.exe",
-            "MultiInstance"
         ]
     ],
     "checkver": "github",
