@@ -38,6 +38,7 @@ scoop install <manifest>
 |[dsynchornize-zh-cn](http://dimio.altervista.org/eng/#DSynchronize)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/dsynchronize-zh-cn.json)</sup>|DSynchronize is a stand-alone utility that let you periodically synchronize two or more folders on Hard Disk, Floppy Disk, LAN, USB Key, CD-DVD and FTP server. (简体中文版)|
 |[dvm](https://github.com/justjavac/dvm)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/dvm.json)</sup>|🦕Deno Version Manager - Easy way to manage multiple active deno versions.|
 |[fido](https://github.com/pbatard/Fido)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/fido.json)</sup>|A PowerShell download script for Windows ISOs and UEFI Shell|
+|[filebrowser](https://filebrowser.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/filebrowser.json)</sup>|Web File Browser|
 |[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/idm-trial-reset.json)</sup>|Use IDM forever without cracking|
