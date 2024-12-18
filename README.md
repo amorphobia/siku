@@ -18,6 +18,7 @@ scoop install <manifest>
 |----|----|
 |[adrive](https://www.aliyundrive.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/adrive.json)</sup>|阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，由阿里巴巴集团出品|
 |[aget-rs](https://github.com/PeterDing/aget-rs)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/aget-rs.json)</sup>|Aget-rs - Fast Asynchronous Downloader with Rust 🦀|
+|[arturo](https://arturo-lang.io/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/arturo.json)</sup>|Simple, expressive & portable programming language for efficient scripting|
 |[autohotkey2.1](https://www.autohotkey.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/autohotkey2.1.json)</sup>|The ultimate automation scripting language for Windows. (2.1 alpha)|
 |[bbdown](https://github.com/nilaoda/BBDown)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bbdown.json)</sup>|一款命令行式哔哩哔哩下载器|
 |[bcdown](https://github.com/lihe07/bilibili_comics_downloader)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bcdown.json)</sup>|用Rust重写的Bilibili漫画下载器！无环境依赖，超高下载性能，支持pdf epub zip格式|
