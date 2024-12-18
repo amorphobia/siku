@@ -6,7 +6,8 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/arturo-lang/arturo/releases/download/v0.9.83/arturo-0.9.83-full-x86_64-windows.zip",
-            "hash": "15e99cd71af5b12ad2e3eb66bbd15cbed4acf5126ce43458144d33ac73a6e24c"
+            "hash": "15e99cd71af5b12ad2e3eb66bbd15cbed4acf5126ce43458144d33ac73a6e24c",
+            "extract_dir": "arturo-full-x86_64-windows-latest"
         }
     },
     "bin": "arturo.exe",
