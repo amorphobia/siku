@@ -92,6 +92,7 @@ scoop install <manifest>
 |[todesk](https://www.todesk.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
 |[treeline](http://treeline.bellz.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/treeline.json)</sup>|An information storage program|
 |[uip](https://github.com/dndx/uip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/uip.json)</sup>|A tool to obtain your public IP address with the help of STUN servers|
+|[unlock-music-cli](https://git.unlock-music.dev/um/cli)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/unlock-music-cli.json)</sup>|解锁加密的音乐文件|
 |[vfilename](https://www.vfilename.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
 |[wechatexporter](https://github.com/BlueMatthew/WechatExporter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wechatexporter.json)</sup>|Wechat Chat History Exporter 微信聊天记录导出备份程序|
