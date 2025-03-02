@@ -85,6 +85,7 @@ scoop install <manifest>
 |[smartzip](https://github.com/vvyoko/SmartZip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/smartzip.json)</sup>|用于扩展7-Zip的脚本|
 |[snipaste-x86](https://www.snipaste.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[sonarr](https://sonarr.tv/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sonarr.json)</sup>|Sonarr is an internet PVR for Usenet and Torrents.|
+|[sound-keeper](https://veg.by/en/projects/soundkeeper/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sound-keeper.json)</sup>|Prevents SPDIF/HDMI/Bluetooth digital audio playback devices from sleeping.|
 |[spim](https://pages.cs.wisc.edu/~larus/spim.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/spim.json)</sup>|SPIM A MIPS32 Simulator|
 |[sublime-text-3](https://www.sublimetext.com)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sublime-text-3.json)</sup>|A sophisticated text editor for code, markup and prose|
 |[tally-marks](https://github.com/adobe-fonts/tally-marks)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tally-marks.json)</sup>|Tally Marks OpenType-SVG Font|
