@@ -64,6 +64,7 @@ scoop install <manifest>
 |[odin](https://odin-lang.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/odin.json)</sup>|The Data-Oriented Language for Sane Software Development.|
 |[parallels-client](https://www.parallels.com/products/ras/capabilities/parallels-client/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/parallels-client.json)</sup>|Parallels(R) Client is a lightweight software that enables end-users to securely access virtual applications and desktops from Windows, Mac, Linux, iOS/iPadOS, Android, Google Chromebook and any HTML5 web browser.|
 |[parsify-desktop](https://parsify.app/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/parsify-desktop.json)</sup>|Next generation notepad-based calculator, built with extendibility and privacy in mind.|
+|[pcl2-ce](https://pcl-community.github.io/projects/pcl-ce/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pcl2-ce.json)</sup>|PCL2 社区版，可体验上游暂未合并的功能|
 |[pijul](https://pijul.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pijul.json)</sup>|Pijul is a free and open source (GPL2) distributed version control system.|
 |[pixpin](https://pixpinapp.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pixpin.json)</sup>|功能强大使用简单的截图/贴图工具，帮助你提高效率|
 |[plain-craft-launcher](https://afdian.net/@LTCat)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/plain-craft-launcher.json)</sup>|新一代 Minecraft / 我的世界 启动器|
