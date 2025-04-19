@@ -83,7 +83,6 @@ scoop install <manifest>
 |[scoop-hook](https://github.com/amorphobia/scoop-hook)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/scoop-hook.json)</sup>|Hook your scoop subcommands in your $env:PATH|
 |[setacl](https://helgeklein.com/setacl/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/setacl.json)</sup>|Automate Permissions and Manage ACLs|
 |[setacl-studio](https://helgeklein.com/setacl-studio/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/setacl-studio.json)</sup>|Intuitive permission management with the power of SetACL|
-|[shakemousetolocate](https://github.com/nicolasdejong/ShakeMouseToLocate)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/shakemousetolocate.json)</sup>|Quickly move the mouse pointer left and right to make it temporarily bigger (Windows)|
 |[smartzip](https://github.com/vvyoko/SmartZip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/smartzip.json)</sup>|用于扩展7-Zip的脚本|
 |[snipaste-x86](https://www.snipaste.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/snipaste-x86.json)</sup>|A snipping tool, which allows you to pin the screenshot back onto the screen. (32-bit version)|
 |[sonarr](https://sonarr.tv/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sonarr.json)</sup>|Sonarr is an internet PVR for Usenet and Torrents.|
@@ -96,7 +95,6 @@ scoop install <manifest>
 |[treeline](http://treeline.bellz.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/treeline.json)</sup>|An information storage program|
 |[uip](https://github.com/dndx/uip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/uip.json)</sup>|A tool to obtain your public IP address with the help of STUN servers|
 |[unlock-music-cli](https://git.unlock-music.dev/um/cli)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/unlock-music-cli.json)</sup>|解锁加密的音乐文件|
-|[vfilename](https://www.vfilename.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vfilename.json)</sup>|使用压缩包的文件名进行简单的版本管理|
 |[vmping](https://github.com/R-Smith/vmPing)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
 |[wechatexporter](https://github.com/BlueMatthew/WechatExporter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wechatexporter.json)</sup>|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[winrar-zh-cn](https://rarlab.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
@@ -106,7 +104,6 @@ scoop install <manifest>
 |[yakc](https://github.com/iammodev/YAKC)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yakc.json)</sup>|YAKC is a Key/Mouse Click Visualizer|
 |[yourav](https://github.com/Tlaster/YourAV)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yourav.json)</sup>|宇宙级最轻量杀毒软件|
 |[you-get](https://you-get.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/you-get.json)</sup>|A tiny command-line utility to download media contents (videos, audios, images) from the Web|
-|[yong-im](https://yong.dgod.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yong-im.json)</sup>|Yong IME, also known as 小小输入法|
 
 See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22&s=0&d=1&o=false)
 
