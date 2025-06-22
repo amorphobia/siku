@@ -103,6 +103,7 @@ scoop install <manifest>
 |[yakc](https://github.com/iammodev/YAKC)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yakc.json)</sup>|YAKC is a Key/Mouse Click Visualizer|
 |[yourav](https://github.com/Tlaster/YourAV)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/yourav.json)</sup>|宇宙级最轻量杀毒软件|
 |[you-get](https://you-get.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/you-get.json)</sup>|A tiny command-line utility to download media contents (videos, audios, images) from the Web|
+|[voidimageviewer](https://github.com/voidtools/voidImageViewer)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/voidimageviewer.json)</sup>|Lightweight image viewer for Windows with animated GIF/WEBP support|
 
 See also in [Scoop website](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Famorphobia%2Fsiku%22&s=0&d=1&o=false)
 
