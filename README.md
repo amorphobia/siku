@@ -48,6 +48,7 @@ scoop install <manifest>
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/idm-trial-reset.json)</sup>|Use IDM forever without cracking|
 |[imazing-converter](https://imazing.com/converter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/imazing-converter.json)</sup>|iMazing Converter. A tiny and free app for Mac and PC that converts photos from HEIC to JPEG, and videos from HEVC/H.265 to MP4/H.264. Enjoy!|
+|[ipatool](https://github.com/majd/ipatool)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/ipatool.json)</sup>|Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store|
 |[iris](https://github.com/nini22P/Iris)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/iris.json)</sup>|A lightweight video player / 轻量级视频播放器|
 |[iwck](https://github.com/Nigh/I-wanna-clean-keyboard)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/iwck.json)</sup>|I wanna clean keyboard - This app won't clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...|
 |[jijidown](http://client.jijidown.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/jijidown.json)</sup>|唧唧Down - 一个用于下载bilibili视频的PC应用程序|
