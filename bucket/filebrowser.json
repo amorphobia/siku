@@ -1,20 +1,20 @@
 {
-    "version": "2.33.6",
+    "version": "2.33.7",
     "description": "Web File Browser",
     "homepage": "https://filebrowser.org/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.6/windows-amd64-filebrowser.zip",
-            "hash": "de73d21767182da6bb6a146e7e64bf329654b52caadff7e238f70cdd952b9f0a"
+            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.7/windows-amd64-filebrowser.zip",
+            "hash": "0a8b4f7d8ebeee614a0273cb18c32957b0aca99dbc529c7da4be989f1e2d8728"
         },
         "32bit": {
-            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.6/windows-386-filebrowser.zip",
-            "hash": "672aad02f3619c70dc68a4ba8a62347e706634a33e3533f75163c5fa32aacf50"
+            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.7/windows-386-filebrowser.zip",
+            "hash": "7705a8affdb3f92dfa51ad6384dbe6d4be463fec97153af03ecbe1f47f967a6b"
         },
         "arm64": {
-            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.6/windows-arm64-filebrowser.zip",
-            "hash": "70f5b8007e8e0828526bd6048a2a68eb6b5a80b498039ddda89641c9984deff0"
+            "url": "https://github.com/filebrowser/filebrowser/releases/download/v2.33.7/windows-arm64-filebrowser.zip",
+            "hash": "3a9fd14ffafbacb7f258a543424a95728c4fc51f301718a04640159e39b754f6"
         }
     },
     "bin": "filebrowser.exe",
