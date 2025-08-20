@@ -21,6 +21,7 @@ scoop install <manifest>
 |[arturo](https://arturo-lang.io/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/arturo.json)</sup>|Simple, expressive & portable programming language for efficient scripting|
 |[arturo-nightly](https://arturo-lang.io/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/arturo-nightly.json)</sup>|Simple, expressive & portable programming language for efficient scripting|
 |[autohotkey2.1](https://www.autohotkey.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/autohotkey2.1.json)</sup>|The ultimate automation scripting language for Windows. (2.1 alpha)|
+|[bark-server](https://bark.day.app/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bark-server.json)</sup>|Backend of Bark|
 |[bbdown](https://github.com/nilaoda/BBDown)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bbdown.json)</sup>|一款命令行式哔哩哔哩下载器|
 |[bcdown](https://github.com/lihe07/bilibili_comics_downloader)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bcdown.json)</sup>|用Rust重写的Bilibili漫画下载器！无环境依赖，超高下载性能，支持pdf epub zip格式|
 |[bdinfo](https://www.videohelp.com/software/BDInfo)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/bdinfo.json)</sup>|The BDInfo tool was designed to collect video and audio technical specifications from Blu-ray movie discs|
