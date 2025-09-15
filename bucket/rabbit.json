@@ -15,7 +15,7 @@
     },
     "pre_install": [
         "rmdir \"$dir\\Rime\"",
-        "New-Item \"$dir\\.portable\"",
+        "New-Item \"$dir\\.portable\" | Out-Null",
         "ensure \"$persist_dir\\Rime\""
     ],
     "shortcuts": [
