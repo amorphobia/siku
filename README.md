@@ -45,6 +45,7 @@ scoop install <manifest>
 |[firefox-eme-free-zh-cn](https://www.mozilla.org/zh-CN/firefox/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/firefox-eme-free-zh-cn.json)</sup>|Firefox 浏览器的无 EME 版本，默认禁用 DRM 支持|
 |[firefox-esr-zh-cn](https://www.mozilla.org/zh-CN/firefox/organizations/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/firefox-esr-zh-cn.json)</sup>|Firefox 的扩展支持版本：流行的开源网络浏览器|
 |[firefox-zh-cn](https://www.mozilla.org/zh-CN/firefox/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/firefox-zh-cn.json)</sup>|流行的开源网络浏览器|
+|[gitea-runner](https://docs.gitea.com/usage/actions/act-runner)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/gitea-runner.json)</sup>|A runner for Gitea based on act|
 |[hfsexplorer](https://www.catacombae.org/hfsexplorer/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/hfsexplorer.json)</sup>|HFSExplorer is an application that can read Mac-formatted hard disks and disk images.|
 |[huorong-popblock](https://www.huorong.cn/person5.html)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/huorong-popblock.json)</sup>|火绒弹窗拦截独立版|
 |[idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/idm-trial-reset.json)</sup>|Use IDM forever without cracking|
