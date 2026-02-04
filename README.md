@@ -70,6 +70,7 @@ scoop install <manifest>
 |[pijul](https://pijul.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pijul.json)</sup>|Pijul is a free and open source (GPL2) distributed version control system.|
 |[pixpin](https://pixpinapp.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pixpin.json)</sup>|功能强大使用简单的截图/贴图工具，帮助你提高效率|
 |[plain-craft-launcher](https://afdian.net/@LTCat)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/plain-craft-launcher.json)</sup>|新一代 Minecraft / 我的世界 启动器|
+|[pocket-id](https://pocket-id.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/pocket-id.json)</sup>|A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services|
 |[portable-build-tools.json](https://github.com/Data-Oriented-House/PortableBuildTools)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/portable-build-tools.json)</sup>|Portable VS Build Tools installer|
 |[posh-cargo](https://github.com/Bak-Jin-Hyeong/posh-cargo)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/posh-cargo.json)</sup>|Provides tab autocompletion of 'cargo' command on PowerShell prompt|
 |[posh-cd](https://github.com/amorphobia/posh-cd)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/posh-cd.json)</sup>|A bash style "cd" to replace Set-Location|
