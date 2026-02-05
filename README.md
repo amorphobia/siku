@@ -99,6 +99,7 @@ scoop install <manifest>
 |[uip](https://github.com/dndx/uip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/uip.json)</sup>|A tool to obtain your public IP address with the help of STUN servers|
 |[unlock-music-cli](https://git.unlock-music.dev/um/cli)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/unlock-music-cli.json)</sup>|解锁加密的音乐文件|
 |[vmping](https://github.com/R-Smith/vmPing)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/vmping.json)</sup>|Visual Multi Ping. Color-coded ping utility for monitoring multiple hosts.|
+|[webdav](https://github.com/hacdias/webdav)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/webdav.json)</sup>|A simple and standalone WebDAV server|
 |[wechatexporter](https://github.com/BlueMatthew/WechatExporter)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/wechatexporter.json)</sup>|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[winrar-zh-cn](https://rarlab.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/winrar-zh-cn.json)</sup>|Powerful archive manager (简体中文版)|
 |[xmcl](https://xmcl.app/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/xmcl.json)</sup>|An Open Source Minecraft Launcher with Modern UX.|
