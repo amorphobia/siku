@@ -61,6 +61,7 @@ scoop install <manifest>
 |[mdict](https://www.mdict.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mdict.json)</sup>|MDict 是一款电子辞典软件|
 |[microdicom-dicom-viewer](https://www.microdicom.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/microdicom-dicom-viewer.json)</sup>|MicroDicom is application for primary processing and preservation of medical images in DICOM format|
 |[mihome-token](https://github.com/Maxmudjon/Get_MiHome_devices_token)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mihome-token.json)</sup>|Get Mi Home devices token Windows/MacOS app|
+|[mihomosh](https://github.com/SamuNatsu/mihomosh)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/mihomosh.json)</sup>|A CLI Toolkit for Mihomo|
 |[minesweeper-arbiter](https://minesweepergame.com/download/arbiter.php)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/minesweeper-arbiter.json)</sup>|Minesweeper Arbiter is a free clone of Windows Minesweeper that saves videos with decimal time.|
 |[new-isofile](https://github.com/TheDotSource/New-ISOFile)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/new-isofile.json)</sup>|Function to create ISO files.|
 |[odin](https://odin-lang.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/odin.json)</sup>|The Data-Oriented Language for Sane Software Development.|
