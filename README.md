@@ -98,6 +98,7 @@ scoop install <manifest>
 |[sublime-text-3](https://www.sublimetext.com)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/sublime-text-3.json)</sup>|A sophisticated text editor for code, markup and prose|
 |[tally-marks](https://github.com/adobe-fonts/tally-marks)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tally-marks.json)</sup>|Tally Marks OpenType-SVG Font|
 |[tautulli](https://tautulli.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tautulli.json)</sup>|A python based web application for monitoring, analytics and notifications for Plex Media Server.|
+|[tcc](https://bellard.org/tcc/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/tcc.json)</sup>|The Tiny C Compiler (a.k.a. TCC, tCc, or TinyCC) is an x86, X86-64 and ARM processor C compiler created by Fabrice Bellard. It is designed to work for slow computers with little disk space (e.g. on rescue disks).|
 |[todesk](https://www.todesk.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/todesk.json)</sup>|An unlimited speed multifunctional remote control software|
 |[treeline](http://treeline.bellz.org/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/treeline.json)</sup>|An information storage program|
 |[uip](https://github.com/dndx/uip)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/uip.json)</sup>|A tool to obtain your public IP address with the help of STUN servers|
