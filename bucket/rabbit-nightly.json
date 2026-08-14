@@ -1,16 +1,16 @@
 {
-    "version": "31784041686",
+    "version": "31803057915",
     "description": "🐇️玉兔毫：由 AutoHotkey 实现的 Rime 输入法引擎前端",
     "homepage": "https://github.com/rimeinn/rabbit",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
             "url": "https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x64.zip",
-            "hash": "cf590dc3cfa0dd4d374d270423ee4c30fcd57a60b892c1775c30b0c190682dfc"
+            "hash": "30118e3798e941087104a217e1c2b07a561aba3bfbf4483712990b28b67ca20c"
         },
         "32bit": {
             "url": "https://github.com/rimeinn/rabbit/releases/download/latest/rabbit-nightly-x86.zip",
-            "hash": "876c47c8b1c460ff8e0ccbd38e88f70ceb30d6b04a79c202ba1f4d44dffc15ce"
+            "hash": "7d1569a71b6ff438c3a266b4442535f306474587d9b41a41e0ded219a72a3b25"
         }
     },
     "pre_install": [
