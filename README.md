@@ -81,7 +81,6 @@ scoop install <manifest>
 |[qqplayer](https://player.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音是一款支持丰富视频、音频文件格式的本地播放器|
 |[quark-cloud-drive](https://pan.quark.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/quark-cloud-drive.json)</sup>|夸克网盘 电脑高效拍档 一键存爽快看|
 |[rabbit](https://github.com/amorphobia/rabbit)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rabbit.json)</sup>|🐇️玉兔毫：由 AutoHotkey 实现的 Rime 输入法引擎前端|
-|[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/radarr.json)</sup>|A fork of Sonarr to work with movies à la Couchpotato.|
 |[rains](https://github.com/rookie0/rains)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 命令行 A 股沪深北证股票信息行情数据查询工具|
 |[revokemsgpatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/revokemsgpatcher.json)</sup>|PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|
 |[rubick](https://rubick.vip/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rubick.json)</sup>|Electron based open source toolbox, free integration of rich plug-ins.|
@@ -127,6 +126,7 @@ Deprecated Apps can be found in scoop official buckets.
 |[86box-romset](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box-romset.json)</sup>|ROMs needed by the 86Box emulator|
 |[86box](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box.json)</sup>|86Box is an IBM PC system emulator that specializes in running old operating systems and software designed for IBM PC systems and compatibles from 1981 through fairly recent system designs based on the PCI bus.|
 |[qsv](https://github.com/jqnatividad/qsv)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/qsv.json)</sup>|qsv is a command line program for indexing, slicing, analyzing, splitting, enriching, validating & joining CSV files.|
+|[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/radarr.json)</sup>|A fork of Sonarr to work with movies à la Couchpotato.|
 |[wechat](https://pc.weixin.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wechat.json)</sup>|微信电脑版|
 |[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wiliwili.json)</sup>|一个专为手柄用户设计的第三方B站客户端|
 

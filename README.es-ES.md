@@ -84,7 +84,6 @@ scoop install <manifest>
 |[qqplayer](https://player.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/qqplayer.json)</sup>|QQ影音 es un reproductor local que soporta una amplia variedad de formatos de video y audio|
 |[quark-cloud-drive](https://pan.quark.cn/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/quark-cloud-drive.json)</sup>|Quark Cloud Drive: socio eficiente para PC, guarda con un clic y disfruta la visualización|
 |[rabbit](https://github.com/amorphobia/rabbit)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rabbit.json)</sup>|🐇️YuTuHao: frontend del motor de método de entrada Rime implementado con AutoHotkey|
-|[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/radarr.json)</sup>|Un fork de Sonarr para trabajar con películas al estilo de Couchpotato.|
 |[rains](https://github.com/rookie0/rains)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rains.json)</sup>|💹 Herramienta de consulta de datos de mercado e información de acciones A de Shanghai, Shenzhen y Beijing desde línea de comandos|
 |[revokemsgpatcher](https://github.com/huiyadanli/RevokeMsgPatcher)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/revokemsgpatcher.json)</sup>|Parche anti-retracción para WeChat/QQ/TIM en PC (ya lo vi, revertirlo ya no sirve)|
 |[rubick](https://rubick.vip/)<sup> [m](https://github.com/amorphobia/siku/blob/master/bucket/rubick.json)</sup>|Caja de herramientas de código abierto basada en Electron, con integración libre de ricos complementos.|
@@ -130,6 +129,7 @@ Las aplicaciones descontinúadas se pueden encontrar en los contenedores oficial
 |[86box-romset](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box-romset.json)</sup>|ROMs necesarias para el emulador 86Box|
 |[86box](https://86box.net/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/86box.json)</sup>|86Box es un emulador de sistema IBM PC que se especializa en ejecutar antiguos sistemas operativos y software diseñados para sistemas IBM PC y compatibles desde 1981 hasta diseños de sistemas bastante recientes basados en el bus PCI.|
 |[qsv](https://github.com/jqnatividad/qsv)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/qsv.json)</sup>|`qsv` es un programa de línea de comandos para indexar, cortar, analizar, dividir, enriquecer, validar y unir archivos CSV.|
+|[radarr](https://radarr.video/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/radarr.json)</sup>|Un fork de Sonarr para trabajar con películas al estilo de Couchpotato.|
 |[wechat](https://pc.weixin.qq.com/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wechat.json)</sup>|WeChat para PC|
 |[wiliwili](https://xfangfang.github.io/wiliwili/)<sup> [m](https://github.com/amorphobia/siku/blob/master/deprecated/wiliwili.json)</sup>|Un cliente de Bilibili de terceros diseñado específicamente para usuarios de mandos|
 
